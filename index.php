@@ -167,7 +167,7 @@
                            <p>Recevez les dernières nouvelles et mises à jour directement dans votre boîte de réception.</p>
                            
                            <div class="hero__search">
-                              <form  id="formcontact">
+                              <form  id="formcontact" action="javascript:void(0)">
                                  <div class="hero__search-input mb-10">
                                     <input name="formail" type="text" placeholder="Renseignez votre e-mail">
                                     <button type="submit"><i class="fad fa-arrow-right"></i></button>
