@@ -290,19 +290,19 @@ p {
 }
 
 .blue-bg-4 {
-  background: #2d69f0;
+  background: #3444F1;
 }
 
 .pink-bg {
-  background: #dd246e;
+  background: #DD246E;
 }
 
 .purple-bg {
-  background: #8007e6;
+  background: #FFB31F;
 }
 
 .green-bg {
-  background: #0cae74;
+  background: #3444F1;
 }
 
 .white-bg {
@@ -2219,14 +2219,14 @@ p {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  background: #ff7921;
+  background: #FFB31F;
 }
 .hero__promotion-icon span svg {
   height: 24px;
   fill: #ffffff;
 }
 .hero__promotion-icon span.cap {
-  background: #5773ff;
+  background: #3444F1;
 }
 .hero__promotion-text h5 {
   font-size: 16px;
@@ -2290,7 +2290,7 @@ p {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  background: #e233fb;
+  background: #DD246E;
 }
 .hero__mic {
   position: absolute;
@@ -2307,7 +2307,7 @@ p {
   height: 50px;
   line-height: 50px;
   text-align: center;
-  background: #ff3c4e;
+  background: #DD246E;
   -webkit-box-shadow: 0px 14px 30px 0px rgba(131, 2, 14, 0.2);
   -moz-box-shadow: 0px 14px 30px 0px rgba(131, 2, 14, 0.2);
   box-shadow: 0px 14px 30px 0px rgba(131, 2, 14, 0.2);
