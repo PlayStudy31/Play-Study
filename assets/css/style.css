@@ -1,44 +1,4 @@
-@charset "UTF-8";
-/*-----------------------------------------------------------------------------------
 
-    Theme Name: Educal – Online Learning and Education HTML5 Template
-    Author: Theme Pure
-    Support: basictheme@gmail.com
-    Description: Educal – Online Learning and Education HTML5 Template
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
-/************ TABLE OF CONTENTS ***************
-
-    01. Common CSS
-    02. Header CSS
-    03. Hero CSS
-    04. Category CSS
-    05. Banner CSS
-    06. Course CSS
-    07. Events CSS
-    08. Price CSS
-    09. Cta CSS
-    10. Product CSS
-    11. Services CSS
-    12. About CSS
-    13. What CSS
-    14. Why CSS
-    15. Counter CSS
-    16. Testimonial CSS
-    17. Blog CSS
-    18. Slider CSS
-    19. Brand CSS
-    20. Teacher CSS
-    21. Page Title CSS
-    22. Contact CSS
-    23. Error CSS
-    24. Login CSS
-    00. Footer CSS
-
-
-**********************************************/
 /*
 
 
@@ -290,19 +250,23 @@ p {
 }
 
 .blue-bg-4 {
-  background: #3444F1;
+  background: #3333CC
+;
 }
 
 .pink-bg {
-  background: #DD246E;
+  background: #FF6666
+;
 }
 
 .purple-bg {
-  background: #FFB31F;
+  background: #FF9933
+;
 }
 
 .green-bg {
-  background: #3444F1;
+  background: #3333CC
+;
 }
 
 .white-bg {
@@ -2219,14 +2183,16 @@ p {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  background: #FFB31F;
+  background: #FF9933
+;
 }
 .hero__promotion-icon span svg {
   height: 24px;
   fill: #ffffff;
 }
 .hero__promotion-icon span.cap {
-  background: #3444F1;
+  background: #3333CC
+;
 }
 .hero__promotion-text h5 {
   font-size: 16px;
@@ -2290,7 +2256,8 @@ p {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  background: #DD246E;
+  background: #FF6666
+;
 }
 .hero__mic {
   position: absolute;
@@ -2307,7 +2274,8 @@ p {
   height: 50px;
   line-height: 50px;
   text-align: center;
-  background: #DD246E;
+  background: #FF6666
+;
   -webkit-box-shadow: 0px 14px 30px 0px rgba(131, 2, 14, 0.2);
   -moz-box-shadow: 0px 14px 30px 0px rgba(131, 2, 14, 0.2);
   box-shadow: 0px 14px 30px 0px rgba(131, 2, 14, 0.2);
@@ -2382,8 +2350,8 @@ p {
   }
 }
 .category__item:hover {
-  background: #2b4eff;
-  border-color: #2b4eff;
+  background: #66CCCC;
+  border-color: #66CCCC;
   -webkit-box-shadow: 0px 20px 30px 0px rgba(4, 23, 118, 0.3);
   -moz-box-shadow: 0px 20px 30px 0px rgba(4, 23, 118, 0.3);
   box-shadow: 0px 20px 30px 0px rgba(4, 23, 118, 0.3);
@@ -2410,16 +2378,20 @@ p {
   fill: #CEE1F2;
 }
 .category__icon svg .st1 {
-  fill: #3444F1;
+  fill: #3333CC
+;
 }
 .category__icon svg .st4 {
-  fill: #3444F1;
+  fill: #3333CC
+;
 }
 .category__icon svg .st2 {
-  fill: #FFB31F;
+  fill: #FF9933
+;
 }
 .category__icon svg .st5 {
-  fill: #FFB31F;
+  fill: #FF9933
+;
 }
 .category__title {
   font-size: 20px;
@@ -2478,7 +2450,7 @@ p {
   margin-bottom: 30px;
 }
 .banner__title a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .banner__thumb {
   position: absolute;
@@ -2610,7 +2582,7 @@ p {
   background: #ffa507;
 }
 .course__tag-2 i {
-  color: #2b4eff;
+  color: #66CCCC;
   padding-right: 8px;
 }
 .course__tag-2 a {
@@ -2619,7 +2591,7 @@ p {
   font-weight: 500;
 }
 .course__tag-2 a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .course__title {
   font-size: 20px;
@@ -2632,14 +2604,14 @@ p {
   }
 }
 .course__title a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .course__title-2 {
   font-size: 24px;
   margin-bottom: 2px;
 }
 .course__title-2 a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .course__title-3 {
   font-size: 36px;
@@ -2813,7 +2785,7 @@ p {
   padding-top: 2px;
 }
 .course__teacher h6 a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .course__teacher-info h6 {
   font-size: 18px;
@@ -2937,7 +2909,7 @@ p {
   color: #0e1133;
 }
 .course__btn .link-btn:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .course__menu button {
   font-size: 16px;
@@ -2955,7 +2927,7 @@ p {
   height: 20px;
   line-height: 20px;
   padding: 0 7px;
-  background: #2b4eff;
+  background: #66CCCC;
   color: #ffffff;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -2973,12 +2945,12 @@ p {
   left: 10px;
   width: 0;
   height: 0;
-  border-left: 5px solid #2b4eff;
+  border-left: 5px solid #66CCCC;
   border-top: 5px solid transparent;
   border-bottom: 5px solid transparent;
 }
 .course__menu button:hover, .course__menu button.active {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .course__menu button:not(:first-child) {
   margin-left: 25px;
@@ -3025,7 +2997,7 @@ p {
   stroke-linejoin: round;
 }
 .course__tab-btn .nav-tabs .nav-item .nav-link.active {
-  background: #2b4eff;
+  background: #66CCCC;
 }
 .course__tab-btn .nav-tabs .nav-item .nav-link.active svg.grid .st0 {
   fill: none;
@@ -3048,7 +3020,7 @@ p {
   border-right: 1px solid #d2d3dc;
 }
 .course__tab-2 .nav-tabs .nav-item:not(:last-child) .nav-link.active {
-  border-color: #2b4eff;
+  border-color: #66CCCC;
 }
 .course__tab-2 .nav-tabs .nav-item .nav-link {
   background: #edeef3;
@@ -3068,7 +3040,7 @@ p {
   padding-right: 5px;
 }
 .course__tab-2 .nav-tabs .nav-item .nav-link.active {
-  background: #2b4eff;
+  background: #66CCCC;
   color: #ffffff;
 }
 @media (max-width: 575px) {
@@ -3211,7 +3183,7 @@ p {
   font-weight: 500;
 }
 .course__sidebar-search input:focus {
-  border-color: #2b4eff;
+  border-color: #66CCCC;
   background: #ffffff;
 }
 .course__sidebar-search button {
@@ -3244,7 +3216,7 @@ p {
 }
 .course__sidebar-check input:checked {
   position: relative;
-  background-color: #2b4eff;
+  background-color: #66CCCC;
   border-color: transparent;
 }
 .course__sidebar-check input:checked::after {
@@ -3272,7 +3244,7 @@ p {
 }
 .course__sidebar-check label:hover {
   cursor: pointer;
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .course__sm-thumb img {
   width: 60px;
@@ -3288,11 +3260,11 @@ p {
   line-height: 1;
 }
 .course__sm-content h5 a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .course__sm-price span {
   font-size: 14px;
-  color: #2b4eff;
+  color: #66CCCC;
   font-weight: 600;
 }
 .course__sm-rating ul li {
@@ -3510,7 +3482,7 @@ p {
   border-radius: 2px;
 }
 .course__review-progress .single-progress {
-  background: #2b4eff;
+  background: #66CCCC;
   height: 100%;
 }
 .course__review-details {
@@ -3608,7 +3580,7 @@ p {
   margin-bottom: 20px;
 }
 .course__form-input input:focus, .course__form-input textarea:focus {
-  border-color: #2b4eff;
+  border-color: #66CCCC;
   background: #ffffff;
 }
 .course__form-input input::placeholder, .course__form-input textarea::placeholder {
@@ -3717,7 +3689,7 @@ p {
   opacity: 1;
 }
 .course__slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #2b4eff;
+  background: #66CCCC;
 }
 .course__video-thumb {
   position: relative;
@@ -3786,7 +3758,7 @@ p {
 }
 .course__video-icon svg .st0 {
   fill: none;
-  stroke: #2b4eff;
+  stroke: #66CCCC;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-miterlimit: 2.6667;
@@ -3909,7 +3881,7 @@ p {
   left: -3px;
   width: 10%;
   height: 0%;
-  background: #2b4eff;
+  background: #66CCCC;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
@@ -3926,7 +3898,7 @@ p {
   margin-bottom: 0;
 }
 .events__title a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .events__meta {
   margin-bottom: 5px;
@@ -3955,7 +3927,7 @@ p {
   color: #0e1133;
 }
 .events__more .link-btn:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .events__details h3 {
   font-size: 26px;
@@ -4000,7 +3972,7 @@ p {
 }
 .events__tag span {
   font-size: 16px;
-  color: #2b4eff;
+  color: #66CCCC;
   margin-right: 7px;
 }
 .events__tag a {
@@ -4009,7 +3981,7 @@ p {
   font-weight: 600;
 }
 .events__tag a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .events__info-price h5 {
   font-size: 26px;
@@ -4052,7 +4024,7 @@ p {
 }
 .events__info-icon svg .st0 {
   fill: none;
-  stroke: #2b4eff;
+  stroke: #66CCCC;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-miterlimit: 2.6667;
@@ -4330,9 +4302,9 @@ p {
   border-radius: 0px 4px 4px 0px;
 }
 .price__tab-btn .nav-tabs .nav-link.active {
-  background: #2b4eff;
+  background: #66CCCC;
   color: #ffffff;
-  border-color: #2b4eff;
+  border-color: #66CCCC;
 }
 
 /*----------------------------------------*/
@@ -4559,7 +4531,7 @@ p {
   color: #6d6e75;
 }
 .cta__form-inner input:focus {
-  border-color: #2b4eff;
+  border-color: #66CCCC;
 }
 .cta__form-inner button {
   height: 56px;
@@ -4599,7 +4571,7 @@ p {
 }
 .cta__agree input:checked {
   position: relative;
-  background-color: #2b4eff;
+  background-color: #66CCCC;
   border-color: transparent;
 }
 .cta__agree input:checked::after {
@@ -4628,7 +4600,7 @@ p {
   font-weight: 600;
 }
 .cta__agree label a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .cta__agree label:hover {
   cursor: pointer;
@@ -4654,10 +4626,10 @@ p {
   font-weight: 500;
 }
 .product__sm-content h5 a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .product__sm-price {
-  color: #2b4eff;
+  color: #66CCCC;
   font-weight: 500;
 }
 .product__sm-price-wrapper span {
@@ -4743,7 +4715,7 @@ p {
   font-weight: 500;
 }
 .cartmini__content h5 a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .cartmini__del {
   position: absolute;
@@ -4781,7 +4753,7 @@ p {
   font-size: 20px;
   color: #0e1133;
   font-weight: 600;
-  color: #2b4eff;
+  color: #66CCCC;
 }
 
 .cart-plus,
@@ -4798,8 +4770,8 @@ p {
 .cart-minus:hover {
   cursor: pointer;
   color: #ffffff;
-  background: #2b4eff;
-  border-color: #2b4eff;
+  background: #66CCCC;
+  border-color: #66CCCC;
 }
 
 .cart-input {
@@ -5819,7 +5791,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #0e1133;
 }
 .why__btn .link-btn:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 @media (max-width: 575px) {
   .why__content {
@@ -5955,7 +5927,7 @@ p.checkout-coupon input[type=text]:focus {
 .testimonial__slider .swiper-nav i:hover {
   background: #ffffff;
   border-color: #ffffff;
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .testimonial__slider .swiper-nav::after {
   display: none;
@@ -6163,7 +6135,7 @@ p.checkout-coupon input[type=text]:focus {
   }
 }
 .blog__title a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .blog__content {
   padding: 30px;
@@ -6223,10 +6195,10 @@ p.checkout-coupon input[type=text]:focus {
 }
 .blog__tag a.blue {
   background: rgba(43, 78, 255, 0.1);
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .blog__tag a.blue:hover {
-  background: #2b4eff;
+  background: #66CCCC;
   color: #ffffff;
 }
 .blog__tag-2 a {
@@ -6244,7 +6216,7 @@ p.checkout-coupon input[type=text]:focus {
   border-radius: 4px;
 }
 .blog__tag-2 a:hover {
-  background: #2b4eff;
+  background: #66CCCC;
   color: #ffffff;
 }
 .blog__author-thumb img {
@@ -6384,7 +6356,7 @@ p.checkout-coupon input[type=text]:focus {
   }
 }
 .blog__link p a {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .blog__img img {
   -webkit-border-radius: 6px;
@@ -6475,7 +6447,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .blog__comment-input input:focus, .blog__comment-input textarea:focus {
   background: #ffffff;
-  border-color: #2b4eff;
+  border-color: #66CCCC;
 }
 .blog__comment-input textarea {
   height: 180px;
@@ -6504,7 +6476,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .blog__comment-agree input:checked {
   position: relative;
-  background-color: #2b4eff;
+  background-color: #66CCCC;
   border-color: transparent;
 }
 .blog__comment-agree input:checked::after {
@@ -6534,7 +6506,7 @@ p.checkout-coupon input[type=text]:focus {
   padding-left: 4px;
 }
 .blog__comment-agree label a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .blog__comment-agree label:hover {
   cursor: pointer;
@@ -6628,10 +6600,10 @@ p.checkout-coupon input[type=text]:focus {
   border-radius: 50%;
 }
 .sidebar__category ul li a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .sidebar__category ul li a:hover::after {
-  background: #2b4eff;
+  background: #66CCCC;
 }
 .sidebar__tag a {
   display: inline-block;
@@ -6650,7 +6622,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .sidebar__tag a:hover {
   color: #ffffff;
-  background: #2b4eff;
+  background: #66CCCC;
 }
 
 .rc__post:not(:last-child) {
@@ -6679,7 +6651,7 @@ p.checkout-coupon input[type=text]:focus {
   line-height: 1.1;
 }
 .rc__title a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 
 /* comment box */
@@ -6762,7 +6734,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .comments-replay a {
   display: inline-block;
-  color: #2b4eff;
+  color: #66CCCC;
   background: rgba(43, 78, 255, 0.1);
   height: 20px;
   line-height: 22px;
@@ -6775,7 +6747,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .comments-replay a:hover {
   color: #ffffff;
-  background: #2b4eff;
+  background: #66CCCC;
 }
 
 /*----------------------------------------*/
@@ -7010,7 +6982,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #0e1133;
 }
 .brand__more .link-btn:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .brand__item {
   text-align: center;
@@ -7067,9 +7039,9 @@ p.checkout-coupon input[type=text]:focus {
   color: #0e1133;
 }
 .teacher__social ul li a:hover {
-  background: #2b4eff;
+  background: #66CCCC;
   color: #ffffff;
-  border-color: #2b4eff;
+  border-color: #66CCCC;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .teacher__social-2 {
@@ -7095,7 +7067,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #898a93;
 }
 .teacher__social-2 ul li a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .teacher__rating {
@@ -7169,9 +7141,9 @@ p.checkout-coupon input[type=text]:focus {
   background: #ffffff;
 }
 .teacher__follow-btn:hover {
-  background: #2b4eff;
+  background: #66CCCC;
   color: #ffffff;
-  border-color: #2b4eff;
+  border-color: #66CCCC;
 }
 .teacher__top {
   padding-bottom: 20px;
@@ -7507,7 +7479,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #6d6e75;
 }
 .contact__form-input input:focus, .contact__form-input textarea:focus {
-  border-color: #2b4eff;
+  border-color: #66CCCC;
   outline: none;
   background: #ffffff;
 }
@@ -7537,7 +7509,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .contact__form-agree input:checked {
   position: relative;
-  background-color: #2b4eff;
+  background-color: #66CCCC;
   border-color: transparent;
 }
 .contact__form-agree input:checked::after {
@@ -7567,7 +7539,7 @@ p.checkout-coupon input[type=text]:focus {
   padding-left: 4px;
 }
 .contact__form-agree label a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .contact__form-agree label:hover {
   cursor: pointer;
@@ -7602,7 +7574,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .contact__info-icon svg {
   fill: none;
-  stroke: #2b4eff;
+  stroke: #66CCCC;
   stroke-width: 2;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -7629,7 +7601,7 @@ p.checkout-coupon input[type=text]:focus {
   color: #53545b;
 }
 .contact__info-text p a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .contact__social h4 {
   font-size: 20px;
@@ -7697,7 +7669,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .contact__icon svg .st0 {
   fill: none;
-  stroke: #2B4EFF;
+  stroke: #66CCCC;
   stroke-width: 0.5;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -8188,7 +8160,7 @@ p.checkout-coupon input[type=text]:focus {
   right: 0;
 }
 .sign__header p a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .sign__social {
   display: block;
@@ -8278,7 +8250,7 @@ p.checkout-coupon input[type=text]:focus {
 .sign__input input:focus {
   outline: none;
   background: #ffffff;
-  border-color: #2b4eff;
+  border-color: #66CCCC;
   -webkit-box-shadow: 0px 1px 4px 0px rgba(8, 0, 42, 0.2);
   -moz-box-shadow: 0px 1px 4px 0px rgba(8, 0, 42, 0.2);
   box-shadow: 0px 1px 4px 0px rgba(8, 0, 42, 0.2);
@@ -8310,7 +8282,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 .sign__agree input:checked {
   position: relative;
-  background-color: #2b4eff;
+  background-color: #66CCCC;
   border-color: transparent;
 }
 .sign__agree input:checked::after {
@@ -8342,20 +8314,20 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 500;
 }
 .sign__agree label a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .sign__forgot a {
   color: #7a797f;
 }
 .sign__forgot a:hover {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 .sign__new p {
   color: #7a797f;
   margin-bottom: 0;
 }
 .sign__new p a {
-  color: #2b4eff;
+  color: #66CCCC;
 }
 
 @keyframes signDot {
